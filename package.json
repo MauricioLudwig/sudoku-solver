@@ -1,0 +1,26 @@
+{
+  "name": "sudoku-solver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MauricioLudwig/sudoku-solver.git"
+  },
+  "author": "Mauricio Ludwig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MauricioLudwig/sudoku-solver/issues"
+  },
+  "homepage": "https://github.com/MauricioLudwig/sudoku-solver#readme",
+  "devDependencies": {
+    "@types/jest": "^27.0.2",
+    "@types/node": "^16.11.4",
+    "jest": "^27.3.1",
+    "ts-jest": "^27.0.7",
+    "typescript": "^4.4.4"
+  }
+}
